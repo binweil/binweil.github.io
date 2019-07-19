@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://binweil.github.io/index.html</loc>
+    <lastmod>2019-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://binweil.github.io/images/coast-curacao-dawn-953.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binweil.github.io/images/dawn-dust-grass-2946.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binweil.github.io/images/youtube-512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binweil.github.io/images/25231.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://binweil.github.io/images/1024px-linkedin_iconsvg.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://binweil.github.io/resume.html</loc>
+    <lastmod>2019-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://binweil.github.io/projects.html</loc>
+    <lastmod>2019-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://binweil.github.io/images/robot.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://binweil.github.io/assets/resume.docx</loc>
+    <lastmod>2019-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
